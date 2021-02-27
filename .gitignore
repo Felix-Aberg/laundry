@@ -42,3 +42,7 @@ ehthumbs.db
 Thumbs.db
 
 Packages/packages-lock.json
+
+laundry/Library/ArtifactDB
+
+laundry/Library/SourceAssetDB
