@@ -46,3 +46,5 @@ Packages/packages-lock.json
 laundry/Library/ArtifactDB
 
 laundry/Library/SourceAssetDB
+
+laundry/Library/
